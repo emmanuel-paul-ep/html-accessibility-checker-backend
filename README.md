@@ -40,6 +40,10 @@ node server.js
 
 ---
 
+## **✅ Deployment & Demo **
+Application is deployed on Render. 
+Link to deployed API: https://html-accessibility-checker-backend.onrender.com
+
 ## **✅ Summary**
 
 | Component                | Command          |
