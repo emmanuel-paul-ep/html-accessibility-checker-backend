@@ -32,15 +32,15 @@ node server.js
 {
   "score": 80,
   "issues": [
-    { "description": "Image missing alt attribute.", "element": "<img src='logo.png'>" },
-    { "description": "Skipped heading level: Found <h3> after <h1>", "element": "<h3>Main Section</h3>" }
+    { "description": "Image missing alt attribute.", "element": "<img src='logo.png'>", "line": 10 },
+    { "description": "Skipped heading level: Found <h3> after <h1>", "element": "<h3>Main Section</h3>", "line": "N/A" }
   ]
 }
 ```
 
 ---
 
-## **✅ Deployment & Demo **
+## **✅ Deployment & Demo**
 Application is deployed on Render. 
 Link to deployed API: https://html-accessibility-checker-backend.onrender.com
 
